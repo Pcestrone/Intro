@@ -1,3 +1,3 @@
 # Intro
-https://github.com/git_hub_user_name/emilyfang-1
-https://github.com/git_hub_user_name/michaelwong314
+https://github.com/emilyfang-1/Intro
+https://github.com/michaelwong314/Intro
